@@ -1,39 +1,31 @@
-# first-project
 <html>
     <head>
         <title>
-            Art and crafts
+            Things You Get
         </title>
         <link rel="stylesheet" href="things.css">
     </head>
 <body>
-    <div class="top1">
-          ART AND CRAFTS
-    </div>
-    <div class="two">
-        <p class="para2"> <font color="darkgreen">
-            There are various handicrafts of the war in Sri Lanka which reflect the culture of Sri Lanka. 
-            These are beautifully designed and have become a major tourist attraction.Perfect locally, 
-            these products will surely be fond memories for tourists. </font> </p>
-        <div class="three">
-            <img src="art.jpg" class="img15">
-            <img src="bathik1.jpg" class="img2">
-            <br> <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-            <div class="four">
-                The following are some types of Sri Lankan art and crafts.<br>
-                  <ul class="list2">
-                    <img src="mask1.jpeg" class="img12"> <br>
-                      <li>Wood carving</li>
-                      <li>Clay (pottery)</li> 
-                      <li>Bathik</li> <img src="pottery1.png" class="img13">
-                      <li>Beeralu lace</li> 
-                      <li>Wewal</li>  <img src="wewal1.jpg" class="img14" >
-                      <li>Veniwalgata</li>
-                      <img src="beeralu.jpg" class="img6">
-                  </ul>
-            </div>
-        </div>
-    </div>
-<a href="things.html" class="back">Back</a>
+    <div class="head">
+        THINGS YOU GET
+    </div>  <br>
+    <p class="para1"> <font color="darkgreen"> Many number of tourist come to Sri Lanka in every year.About 194,495 of tourist had come to Sri Lanka 
+        in 2021. Every Sri Lankan person treat their best to this tourists.If you hope to travel to this country , 
+        you can gain a different experiences and experience the Sri Lankan indigenousness.</font></p>
+     <h2><u>Some of them are presented there.</u></h2>
+<div class="one">
+    <ul class="list1">
+        <li> <a href="hospitality.html" class="link1"> Friendly hospitality </a> </li> <img src="ayurveda.jpg" class="pic1">
+        <li> <a href="festival.html" class="link1"> Local festival and events </a> </li>
+        <li> <a href="medicines.html" class="link1"> Ayurwedha medicines </a> </li> <img src="bathik.jpg" class="pic2">
+        <li> <a href="art.html" class="link1"> Art and crafts </a> </li>
+        <li> <a href="food.html" class="link1"> Local foods , drinks and fruits </a> </li><br> <img src="soursop-juice.jpg" class="pic3">
+        <img src="coconuts shell.jpg" class="pic4">
+    </ul>
+ </div>
+
+
+
+
 </body>
 </html>
